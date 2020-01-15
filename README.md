@@ -1,7 +1,7 @@
 # lab02-AndrewKraft
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-AndrewKraft
-Repo: https://ucsb-cs56-w20.github.io/lab02-AndrewKraft
+Repo: https://github.com/ucsb-cs56-w20/lab02-AndrewKraft
 
 # About this repo
 
